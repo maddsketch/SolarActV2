@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2848befa9e6b89a43981cf87428c8397, type: 3}
+  m_Name: enm_angle to the right
+  m_EditorClassIdentifier: 
+  waypoints:
+  - {fileID: 6969748722895501338, guid: 7fc211e867ccbf94eba8a00504572a55, type: 3}
+  - {fileID: 416899123042368201, guid: 6fd09038ed933944f8e8421650b7e3d3, type: 3}
+  - {fileID: 4571085274063235167, guid: b7960d5b43e26bd4788a14bbb77b6c41, type: 3}
